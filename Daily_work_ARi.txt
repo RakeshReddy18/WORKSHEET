@@ -1,0 +1,70 @@
+11/11/2019	Preparation on CAN,J1939,self learnt about what are the sensors present in engine
+11/12/2019	Prepared PPT on CAN,J1939,Session done on clear case basics,studied about SCM,clear case VOB,client and various servers
+11/13/2019	Prepared PPT on CAN,J1939,went for team lunch,studied about SCM,clear case VOB,client and various servers
+11/14/2019	CAN Bit timing,synchronization types,OSI layers job,configuraton mgt:release units,types,labels,type of labels studied
+11/15/2019	Presentation Given on CAN,Issue list session Attended,CATerpillar Software development process document studied
+11/18/2019	CATerpillar Software development process document Understood,Createrd View and mount the VOBs,Engine basics studied and Issue list session attended
+11/19/2019	Attended Session on Clear case tool,studied dynamic and snapshot view,creating view and adding eleemnts,check in,checkout
+11/20/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec
+11/21/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec
+11/22/2019	Practised on Clear case tool like creating branch ,adding labels,learnt how to write rules for  config spec,Attended session on Package architectureV2.0
+11/25/2019	studied the document of Package architectureV2.0 and tried to map with the bal engine_subsystems vob
+11/26/2019	understood basic engine fuel,intake,coolant,exhaust systems,studied the document of Package architectureV2.0 and tried to map with the bal engine_subsystems vob
+11/27/2019	worked on analyzing VOBs package files how subsystems,methods,tasks are implemented,Attended session on VOBs architecture
+11/28/2019	Understood  VOBs architecture flow in bal_engine subsystems,Attended session on build request process 
+11/29/2019	on leave
+12/2/2019	self study,package architecture flow observed, learnt how to do investigations on Build requests and done practically
+12/3/2019	studied CAT Tier-4A VOB Architecutre,CAT package architecutre and  build procedure for Git builds bom/non-bom,Attended session on vob architecture
+12/4/2019	gone through VOB architecutre flow for bal engine subsystems ,Learnt  hwo to do Test to Prod build request 
+12/5/2019	Test to prod BR testing Learnt,VOB architecture flow for bal engine interface and release studied
+12/6/2019	studied bal engine subsytem Architecture flow,Revised the topics package architecutre and clearcase,try to learn CANape pdf
+12/9/2019	Revised topics on build request procedure for wo update,investigation,test to prod,VOB architecture flow
+12/10/2019	Practised on clear case tool ,Attended session on bal_engine_subsystems vob architrecture flow and started revising on it
+12/11/2019	Revised bal_engine_subsystems vob architrecture flow,Attended session on Migration build request process
+12/12/2019	Attended continous session on Migration build request process,studied CAT engine document,started reading ccp protocol pdf 
+12/13/2019	Revised VOB architecture flow  for all vobs,Attended session on Merging build request,bal engine subsystems flow,UDC tool
+12/16/2019	Started analysing internal directories and various recipes of  bal engine subsystems VOB  architecture flow
+12/17/2019	continued revision on bal engine subsystems VOB  architecture flow,Attended session on bce_ail VOB and  CAT SDLC process
+12/18/2019	started Analyzing project using UDC tool,Revised bce_ail VOB architecture flow, and CAT SDLC process
+12/19/2019	Sample BR analyzed and partially done test to prod BR and observed how to do 25% testing on it
+12/20/2019	Involved in Test to prod BR fl2 creation,UDC project code analyzed,old BE-activity  analysis from issue list and code changes  observed 
+12/23/2019	Revised topics on build request procedure for wo update,investigation,test to prod,VOB architecture flow
+12/24/2019	  issue  list  from old BE-activities   Analysed and code changes observed 
+12/25/2019	Holiday
+12/26/2019	Applied  config spec on old BE-activities and understood code flow and observed like which files got effected and dependency of each file
+12/27/2019	 old BE-activities  code flow understood and gone through VOB architecutre flow for bal engine subsystems
+12/30/2019	on sick  leave
+12/31/2019	J1939 MAP Protocol studied and observed its usage in .c files of vob architecture 
+1/1/2020	Holiday
+1/2/2020	Code Analyzing  using UDC tool,Revised bce_ail VOB architecture flow, and CAT SDLC process
+1/3/2020	Attended session on workorder update BR,Revised the topics package architecutre and clearcase
+1/6/2020	Revised clearcase tool,involved finalise and release process of work order update,Attended session on MPD ,spill chart and RCCA
+1/7/2020	Project added on Resume,Prepared PPT on clearcase tool and given presentation,Revised document of MPD,Attended session on Trace32 bench andCAT  layered architecture
+1/8/2020	Revised document of MPD and spill chart/RCCA analysis,Understood CAT  layered architecture
+1/9/2020	Updated Resume for the interview,Revised UDS protocol service ids,went for practising cultural events 
+1/10/2020	Resume contents prepared,went for practising cultural events 
+1/13/2020	Studied CCP protocol,Prepared for the interview :UDS protocol service ids
+1/14/2020	Resume contents prepared,UDS service ids studied 
+1/15/2020	Holiday
+1/16/2020	on Privileged  leave
+1/17/2020	on Privileged  leave
+1/20/2020	done BE-Activity :work order update 
+1/21/2020	involved CE Activity-Using trace32 how to configure bbram and revised UDS services
+1/22/2020	on Privileged  leave
+1/23/2020	on Privileged  leave
+1/24/2020	on sick  leave
+1/27/2020	on sick  leave
+1/28/2020	Attended session on be activity regarding cust parameters, revised Resume contents: protocol concepts
+1/29/2020	observed code flow regarding configuration of cdl pids, referred Test to prod BR and engines concepts
+1/30/2020	Attended session on be activity regarding cust parameters,revised Resume contents
+1/31/2020	revised the be activity session , observed code flow for cust parameters under be_holt_beta_12 label
+2/3/2020	Involved doing Test to Prod BR Activity,Attended session on Histograms testing 
+2/4/2020	Revised histograms configuration files and attended histograms session and revised resume contents
+2/5/2020	 old BE-activities  code flow understood and gone through VOB architecutre flow for bal engine subsystems
+2/6/2020	Resume contents prepared,UDS service ids studied ,Dspace session attended 
+2/7/2020	 Dspace Task Done practically,UDS service ids prepared
+2/10/2020	 voltage out functionality for multichannel in Dspace Task Done,Prepared for the interview
+2/11/2020	 PWM out ,in functionality in Dspace Task Done,Prepared for the interview
+2/12/2020	 CAN Tx,Rx functionality in Dspace Task Done,Prepared for the interview
+2/13/2020	on Paternity  leave
+2/14/2020	on Paternity  leave
